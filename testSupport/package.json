@@ -20,7 +20,7 @@
 		"@vscode/debugprotocol": "1.68.0"
 	},
 	"devDependencies": {
-		"@types/node": "22.x",
+		"@types/node": "24.x",
 		"typescript": "^5.8.3"
 	},
 	"scripts": {
